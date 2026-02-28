@@ -1,1 +1,31 @@
+Revised R2 & R3
 
+The system shall allow course registration until the official registration deadline. Late registration shall be permitted for up to 3 calendar days after the deadline with a late fee of $50.
+
+Revised R5
+
+The system shall prevent course registration when all seats are filled and shall provide an option to join the waitlist.
+
+Revised R6
+
+The system shall send an email confirmation to the student within 1 minute of successful course registration.
+
+Revised R7 & R8
+
+The system shall prevent registration if prerequisites are not met unless instructor approval is recorded in the system database.
+
+Revised R9 & R10
+
+The system shall prevent schedule conflicts unless one of the courses is fully online and asynchronous.
+
+Revised R11 & R12
+
+The system shall limit students to 18 credit hours per semester. Students may register for up to 24 credit hours only after advisor approval is recorded in the system.
+
+Revised R14
+
+The system shall charge a fixed fee of $100 for course drops made after Week 2 and before Week 6.
+
+Revised R20
+
+The system shall complete the registration transaction within 5 seconds under normal operating conditions.
